@@ -1,0 +1,57 @@
+{
+  "bird": {
+    "subcategories": []
+  },
+  "crop": {
+    "subcategories": [
+      "Cereal Crops",
+      "Fruit Crops",
+      "Vegetable Crops",
+      "Oilseed Crops",
+      "Fiber Crops",
+      "Cash Crops"
+    ]
+  },
+  "feeds": {
+    "subcategories": [
+      "Poultry Feeds",
+      "Livestock Feeds",
+      "Aquaculture Feeds",
+      "Pet Feeds",
+      "Specialty Feeds"
+    ]
+  },
+  "chemicals": {
+    "subcategories": [
+      "Fertilizers",
+      "Pesticides",
+      "Herbicides",
+      "Insecticides",
+      "Fungicides",
+      "Soil Conditioners"
+    ]
+  },
+  "vegetables": {
+    "subcategories": []
+  },
+  "tubers": {
+    "subcategories": []
+  },
+  "grain": {
+    "subcategories": [
+      "Cereal Grains",
+      "Pseudo-Cereal Grains",
+      "Pulses"
+    ]
+  },
+  "liveStocks": {
+    "subcategories": [
+      "Poultry",
+      "Cattle",
+      "Swine",
+      "Sheep and Goats",
+      "Fisheries",
+      "Other Livestocks"
+    ]
+  }
+}
